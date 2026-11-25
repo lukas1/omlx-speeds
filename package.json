@@ -1,0 +1,13 @@
+{
+	"name": "omlx-speeds",
+	"version": "0.1.0",
+	"description": "Live PP/TG speeds and a prompt timer for oMLX-backed models in pi",
+	"keywords": [
+		"pi-package"
+	],
+	"pi": {
+		"extensions": [
+			"./index.ts"
+		]
+	}
+}
